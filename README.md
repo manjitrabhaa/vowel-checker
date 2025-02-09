@@ -11,9 +11,6 @@ The Vowel Checker is a simple web application that allows users to input a text 
 - Responsive design using HTML and CSS
 - Interactive functionality using JavaScript
 
-## Demo
-
-A live demo of the Vowel Checker can be found [here](#). *(Add your demo link)*
 
 ## Technologies Used
 
